@@ -2,7 +2,8 @@
 This project uses **BLIP (Bootstrapped Language-Image Pretraining)** to generate **AI-powered image captions**. It leverages **Hugging Face Transformers** and **Gradio** to create an interactive web-based demo. 🚀  
 
 ## 🌟 **Demo**
-🔗 Try it live: [Hugging Face Spaces]([https://huggingface.co/spaces/YOUR_USERNAME/YOUR_PROJECT_NAME](https://huggingface.co/spaces/Flake56/AI-Image-Caption))  
+👉 Try it on Hugging Face Spaces: [AI-Image-Caption](https://huggingface.co/spaces/Flake56/AI-Image-Caption)
+ 
 
 ---
 
